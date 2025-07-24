@@ -1,0 +1,78 @@
+{
+  "Equity": "nd",
+  "Odds": [
+    {
+      "id": "Royal",
+      "label": "-"
+    },
+    {
+      "id": "SFlash",
+      "label": "-"
+    },
+    {
+      "id": "Quad",
+      "label": "-"
+    },
+    {
+      "id": "Full",
+      "label": "-"
+    },
+    {
+      "id": "Flash",
+      "label": "-"
+    },
+    {
+      "id": "Straight",
+      "label": "-"
+    },
+    {
+      "id": "Set",
+      "label": "-"
+    },
+    {
+      "id": "2pare",
+      "label": "-"
+    },
+    {
+      "id": "Pare",
+      "label": "-"
+    },
+    {
+      "id": "High",
+      "label": "-"
+    }
+  ],
+  "Do": "DoIt",
+  "players": [
+    {
+      "name": "ND",
+      "hand": "nd",
+      "Equity": "nd",
+      "Do": "nd"
+    },
+    {
+      "name": "ND",
+      "hand": "nd",
+      "Equity": "nd",
+      "Do": "nd"
+    },
+    {
+      "name": "ND",
+      "hand": "nd",
+      "Equity": "nd",
+      "Do": "nd"
+    },
+    {
+      "name": "ND",
+      "hand": "nd",
+      "Equity": "nd",
+      "Do": "nd"
+    },
+    {
+      "name": "ND",
+      "hand": "nd",
+      "Equity": "nd",
+      "Do": "nd"
+    }
+  ]
+}

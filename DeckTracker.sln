@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckTracker", "DeckTracker\DeckTracker.csproj", "{2713F249-F969-406D-885A-78DFFA0D6C31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2713F249-F969-406D-885A-78DFFA0D6C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2713F249-F969-406D-885A-78DFFA0D6C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2713F249-F969-406D-885A-78DFFA0D6C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2713F249-F969-406D-885A-78DFFA0D6C31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7860FC53-713A-4E2E-9E02-F9F85442E4CD}
+	EndGlobalSection
+EndGlobal
